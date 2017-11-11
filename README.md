@@ -9,4 +9,4 @@ from:
 https://azure.microsoft.com/en-gb/services/cognitive-services/emotion/
 
 
-
+https://hub.mybinder.org/user/reallygooday-plotting_image-wwxrmnyv/notebooks/emotion-analysis.ipynb
